@@ -24,47 +24,14 @@ Prerequisites
 
  
 
-Get subscription Id 
+Get subscription, copy an create a env variable
 
 `az account show`
-
-`armando@Azure:~$ az account show`
-
-`{`
-
- `"environmentName": "AzureCloud",`
-
- `"homeTenantId": "XXXX",`
-
- `"id": "XXXX",`
-
- `"isDefault": true,`
-
- `"managedByTenants": [],`
-
- `"name": "XXXX",`
-
- `"state": "Enabled",`
-
- `"tenantId": "XXXX",`
-
- `"user": {`
-
-  `"cloudShellID": true,`
-
-  `"name": "armbla@microsoft.com",`
-
-  `"type": "user"`
-
- `}`
-
-`}`
-
+`mySubscriptionId=xxxx-xxxxx-xxxx-xxxx`
  
 
 Create a group of Azure resources; we will use the SSH access function (PREVIEW). For that reason, we are going to create it in the eastus region
 
- 
 
 `myRG=demoArcEdge`
 
