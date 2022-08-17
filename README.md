@@ -24,14 +24,16 @@ https://docs.microsoft.com/en-us/azure/azure-arc/servers/overview
 
 [Lab03 – Installing Azure IoT Edge via Azure Arc for Servers.](/lab03.md)
 
-[Lab04 – Azure Edge Deployments Layered](/lab04.md)
+Lab04 – Azure Edge Deployments Layered
 
 [Lab05 – Implementing microk8s.](/lab05.md)
 
 [Lab06 – Azure Arc for Kubernetes – microk8s](/lab06.md)
 
-Coming soon!
 Lab07 – Dapr
+
 Lab08 - DevOps
-Lab09 - ML
-Lab10 - k3s
+
+Lab09 - Working with GitOps on Arc 
+
+
