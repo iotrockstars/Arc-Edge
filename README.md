@@ -1,8 +1,16 @@
 # Arc + Edge Labs
 
-Azure Arc-enabled servers lets you manage Windows and Linux physical servers and virtual machines hosted outside of Azure, on your corporate network, or other cloud provider. This management experience is designed to be consistent with how you manage native Azure virtual machines, using standard Azure constructs such as Azure Policy and applying tags.
+Today, companies struggle to control and govern increasingly complex environments that extend across data centers, multiple clouds, and edge. Each environment and cloud possesses its own set of management tools, and new DevOps and ITOps operational models can be hard to implement across resources.
 
-When a hybrid machine is connected to Azure, it becomes a connected machine and is treated as a resource in Azure. Each connected machine has a Resource ID enabling the machine to be included in a resource group
+Azure Arc simplifies governance and management by delivering a consistent multi-cloud and on-premises management platform.
+
+Azure Arc provides a centralized, unified way to:
+
+1. Manage your entire environment together by projecting your existing non-Azure and/or on-premises resources into Azure Resource Manager.
+2. Manage virtual machines, Kubernetes clusters, and databases as if they are running in Azure.
+3. Use familiar Azure services and management capabilities, regardless of where they live.
+4. Continue using traditional ITOps while introducing DevOps practices to support new cloud native patterns in your environment.
+5. Configure custom locations as an abstraction layer on top of Azure Arc-enabled Kubernetes clusters and cluster extensions.
 
 https://docs.microsoft.com/en-us/azure/azure-arc/servers/overview
 
