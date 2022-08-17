@@ -1,5 +1,3 @@
-# Lab06 – Azure Arc for Kubernetes – microk8s
-
 # Lab06 – Azure Arc for Kubernetes
 
 ## Description
@@ -83,9 +81,9 @@ Run the following scripts in your VM
 
 Lab04 – Azure Edge Deployments Layered
 
-[Lab05 – Implementing microk8s.](/lab05.md)
+[Lab05 – Implementing microk8s](/lab05.md)
 
-[Lab06 – Azure Arc for Kubernetes – microk8s](/lab06.md)
+[Lab06 – Azure Arc for Kubernetes](/lab06.md)
 
 Lab07 – Dapr
 

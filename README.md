@@ -28,7 +28,7 @@ Lab04 – Azure Edge Deployments Layered
 
 [Lab05 – Implementing microk8s.](/lab05.md)
 
-[Lab06 – Azure Arc for Kubernetes – microk8s](/lab06.md)
+[Lab06 – Azure Arc for Kubernetes](/lab06.md)
 
 Lab07 – Dapr
 
