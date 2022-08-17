@@ -11,10 +11,15 @@ https://docs.microsoft.com/en-us/azure/azure-arc/servers/overview
 ## To play and learn
 
 [Lab01 – Azure Arc for servers - Onboarding existing Linux Server.](/lab01.md)
+
 [Lab02 – Enable SSH access.](/lab02.md)
+
 [Lab03 – Installing Azure IoT Edge via Azure Arc for Servers.](/lab03.md)
+
 [Lab04 – Azure Edge Deployments Layered](/lab04.md)
+
 [Lab05 – Implementing microk8s.](/lab05.md)
+
 [Lab06 – Azure Arc for Kubernetes – microk8s](/lab06.md)
 
 Coming soon!
