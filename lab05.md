@@ -72,8 +72,38 @@ https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
 
 `kubectl config set-context microk8s --cluster=microk8s --namespace=default --user=microk8s-admin`
 
+
 ## Install Helm
 
 `sudo snap install helm --classic`
 
 
+## Open the ports to communicate with Arc for Kubernetes
+
+`sudo ufw allow 443/tcp`
+
+`sudo ufw allow 9418/tcp #Arc for Kubernetes`
+
+`sudo ufw enable`
+
+
+
+## To play and learn
+
+[Lab01 – Azure Arc for servers - Onboarding existing Linux Server.](/lab01.md)
+
+[Lab02 – Enable SSH access.](/lab02.md)
+
+[Lab03 – Installing Azure IoT Edge via Azure Arc for Servers.](/lab03.md)
+
+Lab04 – Azure Edge Deployments Layered
+
+[Lab05 – Implementing microk8s.](/lab05.md)
+
+[Lab06 – Azure Arc for Kubernetes – microk8s](/lab06.md)
+
+Lab07 – Dapr
+
+Lab08 - DevOps
+
+Lab09 - Working with GitOps on Arc 
