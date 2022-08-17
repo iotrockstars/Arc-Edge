@@ -11,7 +11,8 @@ SSH access to Arc-enabled servers provides the following key benefits:
 
 https://docs.microsoft.com/en-us/azure/azure-arc/servers/ssh-arc-overview
 
-
+## Labs goals
+TODO. Add
 
 ## Create default connectivity endpoint, the following actions must be completed for each Arc-enabled server 
 

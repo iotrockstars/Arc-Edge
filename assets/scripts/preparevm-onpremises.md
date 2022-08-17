@@ -19,4 +19,5 @@ sudo apt install openssh-server openssh-client -y
 
 sudo apt install ufw -y
 sudo ufw allow 443/tcp
+sudo ufw allow 9418/tcp #Arc for Kubernetes
 sudo ufw enable

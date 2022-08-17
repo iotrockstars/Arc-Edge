@@ -18,6 +18,8 @@ Prerequisites
 
 \- Local admin privileges on Virtual Machine 
 
+## Labs goals
+TODO. Add
 
 
 ## Instructions 

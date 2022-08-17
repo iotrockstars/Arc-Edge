@@ -1,6 +1,10 @@
 # Lab03 – Installing Azure IoT Edge via Azure Arc for Servers
 
+## Description
+TO DO
 
+## Labs goals
+TO DO
 
 ## Creating IoT Hub 
 
