@@ -6,7 +6,7 @@ SSH access to Arc-enabled servers provides the following key benefits:
 
 - No     public IP address or open SSH ports required
 - Access     to Windows and Linux machines
-- Ability     to log-in as a local user or an [Azure      user (Linux only)](https://docs.microsoft.com/en-us/azure/active-directory/devices/howto-vm-sign-in-azure-ad-linux)
+- Ability     to log-in as a local user or an [Azure user (Linux only)](https://docs.microsoft.com/en-us/azure/active-directory/devices/howto-vm-sign-in-azure-ad-linux)
 - Support     for other OpenSSH based tooling with config file support
 
 https://docs.microsoft.com/en-us/azure/azure-arc/servers/ssh-arc-overview
