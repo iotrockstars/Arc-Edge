@@ -18,9 +18,9 @@ You may need to configure your firewall to allow pod-to-pod and pod-to-internet 
 
 `sudo ufw default allow routed`
 
-`sudo usermod -a -G microk8s parallels`
+`sudo usermod -a -G microk8s <user>`
 
-`sudo usermod -a -G microk8s parallels`
+`sudo usermod -a -G microk8s <user>`
 
 `newgrp microk8s`
 
